@@ -1,0 +1,7 @@
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAss2\BoluwatifeAss2\bin\Debug\BoluwatifeAss2.exe.config
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAss2\BoluwatifeAss2\bin\Debug\BoluwatifeAss2.exe
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAss2\BoluwatifeAss2\bin\Debug\BoluwatifeAss2.pdb
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAss2\BoluwatifeAss2\obj\Debug\BoluwatifeAss2.csproj.AssemblyReference.cache
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAss2\BoluwatifeAss2\obj\Debug\BoluwatifeAss2.csproj.CoreCompileInputs.cache
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAss2\BoluwatifeAss2\obj\Debug\BoluwatifeAss2.exe
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAss2\BoluwatifeAss2\obj\Debug\BoluwatifeAss2.pdb
