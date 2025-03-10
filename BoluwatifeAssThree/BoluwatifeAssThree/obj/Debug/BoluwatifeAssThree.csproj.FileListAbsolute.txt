@@ -1,0 +1,7 @@
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAssThree\BoluwatifeAssThree\bin\Debug\BoluwatifeAssThree.exe.config
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAssThree\BoluwatifeAssThree\bin\Debug\BoluwatifeAssThree.exe
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAssThree\BoluwatifeAssThree\bin\Debug\BoluwatifeAssThree.pdb
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAssThree\BoluwatifeAssThree\obj\Debug\BoluwatifeAssThree.csproj.AssemblyReference.cache
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAssThree\BoluwatifeAssThree\obj\Debug\BoluwatifeAssThree.csproj.CoreCompileInputs.cache
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAssThree\BoluwatifeAssThree\obj\Debug\BoluwatifeAssThree.exe
+C:\Users\AMICHAELS\Desktop\Optimus ETL\BoluwatifeAssThree\BoluwatifeAssThree\obj\Debug\BoluwatifeAssThree.pdb

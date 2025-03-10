@@ -1,0 +1,7 @@
+C:\Users\AMICHAELS\Desktop\Optimus ETL\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.exe.config
+C:\Users\AMICHAELS\Desktop\Optimus ETL\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.exe
+C:\Users\AMICHAELS\Desktop\Optimus ETL\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.pdb
+C:\Users\AMICHAELS\Desktop\Optimus ETL\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.csproj.AssemblyReference.cache
+C:\Users\AMICHAELS\Desktop\Optimus ETL\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.csproj.CoreCompileInputs.cache
+C:\Users\AMICHAELS\Desktop\Optimus ETL\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.exe
+C:\Users\AMICHAELS\Desktop\Optimus ETL\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.pdb
